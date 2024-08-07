@@ -1,16 +1,12 @@
-## Hi there 👋
+# 🌼 Alexandrine Labbé 
 
-<!--
-**Alexandrine-Labbe/Alexandrine-Labbe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bonjour ! Je suis Alexandrine Labbé, une développeuse web full stack basée à Montpellier, France.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 À propos de moi
+- 📬 Me contacter : alexandrinelabbe@gmail.com
+- 🕸 Site : [alexandrinelabbe.fr](https://alexandrinelabbe.fr)
+- 🏡 Habite : Montpellier, France
+- 🗓 Âge : 25 ans
+- 🎓 Diplômes : Licence APIDAE + DUT informatique
+- 👩‍💼 Emploi : Développeuse web full stack chez Poisson Soluble 
+- 🖥 Technos du moment : Symfony, React, Tailwind
