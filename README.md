@@ -4,7 +4,7 @@ Bonjour ! Je suis Alexandrine Labbé, une développeuse web full stack basée à
 
 ## 🌱 À propos de moi
 - 📬 Me contacter : alexandrinelabbe@gmail.com
-- 🕸 Site : [alexandrinelabbe.fr](https://alexandrinelabbe.fr)
+- 🕸 Site : [https://alexandrine-labbe.fr](https://alexandrine-labbe.fr/)
 - 🏡 Habite : Montpellier, France
 - 🗓 Âge : 25 ans
 - 🎓 Diplômes : Licence APIDAE + DUT informatique
