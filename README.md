@@ -6,7 +6,7 @@ Bonjour ! Je suis Alexandrine Labbé, une développeuse web full stack basée à
 - 📬 Me contacter : alexandrinelabbe@gmail.com
 - 🕸 Site : [https://alexandrine-labbe.fr](https://alexandrine-labbe.fr/)
 - 🏡 Habite : Montpellier, France
-- 🗓 Âge : 25 ans
+- 🗓 Âge : 26 ans
 - 🎓 Diplômes : Licence APIDAE + DUT informatique
 - 👩‍💼 Emploi : Développeuse web full stack chez Poisson Soluble 
 - 🖥 Technos du moment : Symfony, React, Tailwind
